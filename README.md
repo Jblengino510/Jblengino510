@@ -34,18 +34,14 @@ An app that generates random jokes and allows users to save their favorite jokes
 <br>
 
 ## Connect with me 📫
-<hr>
-<br>
 <img align="left" height="40x" width="40px" src="images/linkedin.svg" style="margin-right:20px">
-<img align="left" height="40px" width="40px" src=" images/dev.png">
+<img align="left" height="40px" width="40px" src="images/dev.png">
 <br>
 <br>
 <br>
 <br>
 
 ## Skills 👨‍💻
-<hr>
-<br>
 
 ### Languages
 <br>
