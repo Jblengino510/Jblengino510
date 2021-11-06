@@ -32,5 +32,40 @@ A Reddit clone that allows users to post content and interact with other users. 
 An app that generates random jokes and allows users to save their favorite jokes. (Vanilla Javascript)
 <br>
 <br>
-## Contact 📫
 
+## Connect with me 📫
+<hr>
+<br>
+<img align="left" height="40x" width="40px" src="images/linkedin.svg" style="margin-right:20px">
+<img align="left" height="40px" width="40px" src=" images/dev.png">
+<br>
+<br>
+<br>
+<br>
+
+## Skills 👨‍💻
+<hr>
+<br>
+
+### Languages
+<br>
+<img align="left" height="40x" width="40px" src="images/html-1.svg" style="margin-right:20px">
+<img align="left" height="40x" width="40px" src="images/css-3.svg" style="margin-right:20px">
+<img align="left" height="40x" width="40px" src="images/javascript.png" style="margin-right:20px">
+<img align="left" height="40x" width="40px" src="images/ruby.png">
+<br>
+<br>
+<br>
+
+### Libraries/Frameworks
+<br>
+<img align="left" height="50x" width="50px" src="images/react.png" style="margin-right:20px">
+<img align="left" height="50x" width="50px" src="images/rails.svg" style="margin-right:15px">
+<img align="left" height="50x" width="50px" src="images/mui.svg">
+<br>
+<br>
+<br>
+
+### Database Systems
+<br>
+<img align="left" height="50x" width="50px" src="images/postgresql.svg" style="margin-right:20px">
