@@ -1,6 +1,7 @@
 # What's up! I'm Josh! 🤙
 Full Stack Software Engineer skilled with React, Ruby on Rails, and Javascript.  Excited to explore the possibilities of technology.
 <br>
+
 ## Projects 
 🎹 The Wav [Repo](https://github.com/Jblengino510/the-wav)
 <br>
@@ -38,13 +39,10 @@ An app that generates random jokes and allows users to save their favorite jokes
 <img align="left" height="40px" width="40px" src="images/dev.png">
 <br>
 <br>
-<br>
-<br>
 
 ## Skills 👨‍💻
 
 ### Languages
-<br>
 <img align="left" height="40x" width="40px" src="images/html-1.svg" style="margin-right:20px">
 <img align="left" height="40x" width="40px" src="images/css-3.svg" style="margin-right:20px">
 <img align="left" height="40x" width="40px" src="images/javascript.png" style="margin-right:20px">
@@ -54,7 +52,6 @@ An app that generates random jokes and allows users to save their favorite jokes
 <br>
 
 ### Libraries/Frameworks
-<br>
 <img align="left" height="50x" width="50px" src="images/react.png" style="margin-right:20px">
 <img align="left" height="50x" width="50px" src="images/rails.svg" style="margin-right:15px">
 <img align="left" height="50x" width="50px" src="images/mui.svg">
