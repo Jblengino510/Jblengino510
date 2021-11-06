@@ -60,5 +60,4 @@ An app that generates random jokes and allows users to save their favorite jokes
 <br>
 
 ### Database Systems
-<br>
 <img align="left" height="50x" width="50px" src="images/postgresql.svg" style="margin-right:20px">
