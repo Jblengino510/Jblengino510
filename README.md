@@ -35,8 +35,8 @@ An app that generates random jokes and allows users to save their favorite jokes
 <br>
 
 ## Connect with me 📫
-<img align="left" height="40x" width="40px" src="images/linkedin.svg" style="margin-right:20px">
-<img align="left" height="40px" width="40px" src="images/dev.png">
+[<img align="left" height="40x" width="40px" src="images/linkedin.svg" style="margin-right:20px">](https://www.linkedin.com/in/joshua-blengino-9338a51a8/)
+[<img align="left" height="40px" width="40px" src="images/dev.png">](https://dev.to/jblengino510)
 <br>
 <br>
 
@@ -61,3 +61,9 @@ An app that generates random jokes and allows users to save their favorite jokes
 
 ### Database Systems
 <img align="left" height="50x" width="50px" src="images/postgresql.svg" style="margin-right:20px">
+<br>
+<br>
+<br>
+
+### Other
+<img align="left" height="40x" width="40px" src="images/heroku-4.svg" style="margin-right:20px">
