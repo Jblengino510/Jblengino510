@@ -64,7 +64,6 @@ An app that generates random jokes and allows users to save their favorite jokes
 <img height="50px" width="50px" src="images/SQLite.png">
 <br>
 <br>
-<br>
 
 ### Other
 <img align="left" height="40x" width="40px" src="images/heroku-4.svg" style="margin-right:20px">
