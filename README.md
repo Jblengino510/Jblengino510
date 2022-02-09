@@ -53,7 +53,7 @@ An app that generates random jokes and allows users to save their favorite jokes
 
 ### Libraries/Frameworks
 <img align="left" height="50x" width="50px" src="images/react.png" style="margin-right:20px">
-<img align="left" height="50x" width="50px" src="images/rails.svg" style="margin-right:10px">
+<img align="left" height="50x" width="50px" src="images/rails.svg" style="margin-right:5px">
 <img align="left" height="50x" width="50px" src="images/mui.svg">
 <br>
 <br>
