@@ -53,7 +53,7 @@ An app that generates random jokes and allows users to save their favorite jokes
 
 ### Libraries/Frameworks
 <img align="left" height="50x" width="50px" src="images/react.png" style="margin-right:20px">
-<img align="left" height="50x" width="50px" src="images/rails.svg" style="margin-right:15px">
+<img align="left" height="50x" width="50px" src="images/rails.svg" style="margin-right:10px">
 <img align="left" height="50x" width="50px" src="images/mui.svg">
 <br>
 <br>
@@ -64,4 +64,9 @@ An app that generates random jokes and allows users to save their favorite jokes
 <img height="50px" width="50px" src="images/SQLite.png">
 
 ### Other
-<img align="left" height="40x" width="40px" src="images/heroku-4.svg" style="margin-right:20px">
+<img align="left" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="margin-right:20px"/>
+<img align="left" height="50px" width="50px" src="images/figma-1 (1).svg" style="margin-right:20px"/>
+<img align="left" height="50px" width="50px" src="images/notion-2.svg" style="margin-right:20px"/>
+<img align="left" height="50px" width="50px" src="images/adobe-photoshop-2.svg" style="margin-right:20px"/>
+<img align="left" height="50px" width="50px" src="images/postman.svg" style="margin-right:20px"/>
+<img align="left" height="50px" width="50px" src="images/git-icon.svg" style="margin-right:20px"/>
