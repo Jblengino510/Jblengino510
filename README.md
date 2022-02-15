@@ -3,7 +3,7 @@ Full Stack Software Engineer skilled with React, Ruby on Rails, and Javascript. 
 <br>
 
 ## Projects 
-🎹 The Wav [Repo](https://github.com/Jblengino510/the-wav)
+🎹 The Wav [Repo](https://github.com/Jblengino510/the-wav) | [Live Site](https://the-wav.herokuapp.com/)
 <br>
 <br>
 A free online marketplace where users can buy and sell beats. (React & Rails)
@@ -68,5 +68,5 @@ An app that generates random jokes and allows users to save their favorite jokes
 <img align="left" height="50px" width="50px" src="images/figma-1 (1).svg" style="margin-right:20px"/>
 <img align="left" height="50px" width="50px" src="images/notion-2.svg" style="margin-right:20px"/>
 <img align="left" height="50px" width="50px" src="images/adobe-photoshop-2.svg" style="margin-right:20px"/>
-<img align="left" height="50px" width="50px" src="images/postman.svg" style="margin-right:20px"/>
+<img align="left" height="60px" width="60px" src="images/postman.svg" style="margin-right:20px"/>
 <img align="left" height="50px" width="50px" src="images/git-icon.svg" style="margin-right:20px"/>
