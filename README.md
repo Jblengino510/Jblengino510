@@ -35,26 +35,28 @@ An app that generates random jokes and allows users to save their favorite jokes
 <br>
 
 ## Connect with me 📫
-[<img align="left" height="40x" width="40px" src="images/linkedin.svg" style="margin-right:20px">](https://www.linkedin.com/in/joshua-blengino-9338a51a8/)
-[<img align="left" height="40px" width="40px" src="images/dev.png">](https://dev.to/jblengino510)
+[<img align="left" height="45px" width="45px" src="images/linkedin.svg" style="margin-right:20px">](https://www.linkedin.com/in/joshua-blengino-9338a51a8/)
+[<img align="left" height="45px" width="45px" src="images/dev.png">](https://dev.to/jblengino510)
+<br>
 <br>
 <br>
 
 ## Skills 👨‍💻
 
 ### Languages
-<img align="left" height="40x" width="40px" src="images/html-1.svg" style="margin-right:20px">
-<img align="left" height="40x" width="40px" src="images/css-3.svg" style="margin-right:20px">
-<img align="left" height="40x" width="40px" src="images/javascript.png" style="margin-right:20px">
-<img align="left" height="40x" width="40px" src="images/ruby.png">
+<img align="left" height="45px" width="45px" src="images/html-1.svg" style="margin-right:20px">
+<img align="left" height="45px" width="45px" src="images/css-3.svg" style="margin-right:20px">
+<img align="left" height="45px" width="45px" src="images/javascript.png" style="margin-right:20px">
+<img align="left" height="45px" width="45px" src="images/ruby.png">
 <br>
 <br>
 <br>
 
 ### Libraries/Frameworks
 <img align="left" height="50x" width="50px" src="images/react.png" style="margin-right:20px">
-<img align="left" height="50x" width="50px" src="images/rails.svg" style="margin-right:5px">
-<img align="left" height="50x" width="50px" src="images/mui.svg">
+<img align="left" height="50x" width="50px" src="images/rails.svg">
+<img align="left" height="50x" width="50px" src="images/mui.svg" style="margin-right:20px">
+<img align="left" height="50x" width="50px" src="images/react-router_1.svg">
 <br>
 <br>
 <br>
@@ -62,6 +64,9 @@ An app that generates random jokes and allows users to save their favorite jokes
 ### Database Systems
 <img align="left" height="50x" width="50px" src="images/postgresql.svg" style="margin-right:20px">
 <img height="50px" width="50px" src="images/SQLite.png">
+<br>
+<br>
+<br>
 
 ### Other
 <img align="left" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="margin-right:20px"/>
