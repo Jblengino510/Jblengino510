@@ -1,5 +1,5 @@
-# What's up! I'm Josh! 🤙
-Full Stack Software Engineer skilled with React, Ruby on Rails, and Javascript.  Excited to explore the possibilities of technology.
+# Hi! I'm Josh! 🤙
+Full Stack Software Engineer with a focus on React, Ruby on Rails, and Javascript.  Ready to explore the possibilities of technology.
 <br>
 
 ## Projects 
@@ -53,6 +53,7 @@ An app that generates random jokes and allows users to save their favorite jokes
 
 ### Libraries/Frameworks
 <img align="left" height="50x" width="50px" src="images/react.png" style="margin-right:20px">
+<img align="left" height="50x" width="50px" src="images/redux.svg" style="margin-right:20px">
 <img align="left" height="50x" width="50px" src="images/rails.svg">
 <img align="left" height="50x" width="50px" src="images/mui.svg" style="margin-right:20px">
 <img align="left" height="50x" width="50px" src="images/react-router_1.svg">
