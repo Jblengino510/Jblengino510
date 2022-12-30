@@ -65,7 +65,7 @@ style="margin-right:20px">
 
 ### Database Systems
 <img align="left" height="50x" width="50px" src="images/postgresql.svg" style="margin-right:20px">
-<img height="50px" width="50px" src="images/SQLite.png"
+<img align="left" height="50px" width="50px" src="images/SQLite.png"
 style="margin-right:10px">
 <img height="50px" width="50px" src="images/snoflake.png">
 
