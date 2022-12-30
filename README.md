@@ -46,7 +46,9 @@ An app that generates random jokes and allows users to save their favorite jokes
 <img align="left" height="40px" width="40px" src="images/html-1.svg" style="margin-right:20px">
 <img align="left" height="40px" width="40px" src="images/css-3.svg" style="margin-right:20px">
 <img align="left" height="40px" width="40px" src="images/javascript.png" style="margin-right:20px">
-<img align="left" height="40px" width="40px" src="images/ruby.png">
+<img align="left" height="40px" width="40px" src="images/ruby.png"
+style="margin-right:20px">
+<img align="left" height="40px" width="40px" src="images/python-5.svg">
 <br>
 <br>
 <br>
