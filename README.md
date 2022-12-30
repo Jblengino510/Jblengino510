@@ -77,3 +77,4 @@ style="margin-right:10px">
 <img align="left" height="60px" width="60px" src="images/postman.svg" style="margin-right:20px"/>
 <img align="left" height="50px" width="50px" src="images/git-icon.svg" style="margin-right:20px"/>
 <img align="left" height="50px" width="50px" src="images/tableau-software.svg" style="margin-right:20px"/>
+<img align="left" height="50px" width="50px" src="images/jira-1.svg"/>
