@@ -65,7 +65,9 @@ style="margin-right:20px">
 
 ### Database Systems
 <img align="left" height="50x" width="50px" src="images/postgresql.svg" style="margin-right:20px">
-<img height="50px" width="50px" src="images/SQLite.png">
+<img height="50px" width="50px" src="images/SQLite.png"
+style="margin-right:10px">
+<img height="50px" width="50px" src="images/snoflake.png">
 
 ### Other
 <img align="left" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="margin-right:20px"/>
