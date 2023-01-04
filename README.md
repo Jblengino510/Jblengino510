@@ -1,5 +1,5 @@
 # Hi! I'm Josh! 🤙
-Full Stack Software Engineer with a focus on React, Ruby on Rails, and Javascript.  Ready to explore the possibilities of technology.
+Data Engineer @CloudBees
 <br>
 
 ## Projects 
